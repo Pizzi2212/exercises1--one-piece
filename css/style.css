@@ -1,0 +1,182 @@
+body {
+    width: 480px;
+    margin-right:auto;
+    margin-left:auto;
+    font-family: Oswald;
+    font-size: 1.2rem;
+    text-align: center;
+}
+header {
+    border: 1px solid black;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+    background-color: pink;
+}
+
+h1 {
+    font-family: protest strike;
+    font-size: 2em;
+    color: red;
+}
+
+article {
+    border: 1px solid black;
+}
+
+h2 {
+    font-family: Pacifico;
+    font-size: 3em;
+    padding-bottom: 0.4em;
+}
+
+#Rufy img {
+    margin-right: 2em;
+}
+ #Rufy {
+    background: linear-gradient(90deg, rgba(213,13,13,0) 0%, rgba(193,172,109,0.7651435574229692) 14%);
+ }
+
+#Rufy p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Zoro img {
+    margin-right: 2em;
+}
+ #Zoro {
+    
+    background: linear-gradient(90deg, rgba(16,56,22,0) 0%, rgba(40,99,40,0.7231267507002801) 3%, rgba(41,69,41,1) 65%, rgba(41,69,41,0.7231267507002801) 82%);
+ }
+
+#Zoro p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Nami img {
+    margin-right: 2em;
+}
+ #Nami {
+    
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(164,49,49,1) 0%, rgba(252,176,69,1) 100%);
+ }
+
+#Nami p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Usopp img {
+    margin-right: 2em;
+}
+ #Usopp {
+    
+    background: linear-gradient(90deg, rgba(48,46,46,1) 0%, rgba(185,125,40,1) 100%);
+ }
+
+#Usopp p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Sanji img {
+    margin-right: 2em;
+}
+ #Sanji {
+    
+    background: linear-gradient(90deg, rgba(85,81,75,1) 0%, rgba(241,218,0,1) 65%);
+ }
+
+#Sanji p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Sanji img {
+    margin-right: 2em;
+}
+ #Sanji {
+    
+    background: linear-gradient(90deg, rgba(85,81,75,1) 0%, rgba(241,218,0,1) 65%);
+ }
+
+#Sanji p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Chopper img {
+    margin-right: 2em;
+}
+ #Chopper {
+    
+    background: linear-gradient(90deg, rgba(25,72,212,1) 0%, rgba(98,90,0,0.9864320728291317) 44%);
+ }
+
+#Chopper p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Robin img {
+    margin-right: 2em;
+}
+ #Robin {
+    
+    background: linear-gradient(90deg, rgba(104,139,242,0.6979166666666667) 19%, rgba(10,10,3,0.8631827731092436) 75%);
+ }
+
+#Robin p {
+    margin: 1em 1em 1em 1em;
+}
+
+#franky img {
+    margin-right: 2em;
+}
+ #franky {
+    
+    background: linear-gradient(90deg, rgba(53,89,195,0.6979166666666667) 26%, rgba(154,24,24,0.8631827731092436) 55%);
+
+ }
+
+#franky p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Brook img {
+    margin-right: 2em;
+}
+ #Brook {
+    
+    background: linear-gradient(90deg, rgba(209,211,218,0.6979166666666667) 26%, rgba(0,0,0,0.8631827731092436) 55%);
+
+ }
+
+#Brook p {
+    margin: 1em 1em 1em 1em;
+}
+
+#Jinbe img {
+    margin-right: 2em;
+}
+ #Jinbe {
+    
+    background: linear-gradient(0deg, rgba(34,193,195,1) 18%, rgba(163,119,23,1) 100%);
+
+ }
+
+#Jinbe p
+ {
+    margin: 1em 1em 1em 1em;
+}
+
+footer {
+  padding-top: 2em;
+   border: 1px solid black;
+   background-color: skyblue;
+}
+
+footer p {
+    margin-bottom: 2em;
+}
+
+footer a {
+    color: black;
+    font-weight: bold;
+
+}
+
